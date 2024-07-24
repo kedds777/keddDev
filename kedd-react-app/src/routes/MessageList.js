@@ -1,6 +1,6 @@
 // src/MessageList.js
 import React from 'react';
-import './MessageList.css';
+import '../styleSheets/MessageList.css';
 
 const MessageList = ({ messages }) => {
   return (
